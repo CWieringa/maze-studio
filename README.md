@@ -22,8 +22,15 @@ Built with Tkinter, MazeStudio includes tools for maze generation, manual editin
 ---
 
 ## Screenshots
+**Default Maze Generation**
 
-Coming Soon...
+![Default](screenshots/DefaultMaze.png)
+
+**With Editor**
+![Editor](screenshots/MazeEditor.png)
+
+**Viewer**
+![Viewer](screenshots/MazeViewer.png)
 
 ---
 
