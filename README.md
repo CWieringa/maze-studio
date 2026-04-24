@@ -43,7 +43,7 @@ Built with Tkinter, MazeStudio includes tools for maze generation, manual editin
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/MazeStudio.git
+git clone https://github.com/CWieringa/MazeStudio.git
 cd MazeStudio
 
 pip install pillow
